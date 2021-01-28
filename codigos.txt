@@ -1,6 +1,6 @@
 [
  {
-   "codigo": "1",
+   "codigo": "001",
    "nome": "Banco Do Brasil S.A (BB)"
  },
  {
@@ -32,7 +32,7 @@
    "nome": "Banco Sofisa S.A (Sofisa Direto)"
  },
  {
-   "codigo": "77",
+   "codigo": "077",
    "nome": "Banco Inter S.A."
  },
  {
@@ -44,7 +44,7 @@
    "nome": "Caixa Econômica Federal (CEF)"
  },
  {
-   "codigo": "33",
+   "codigo": "033",
    "nome": "Banco Santander Brasil S.A."
  },
  {
@@ -64,7 +64,7 @@
    "nome": "Neon Pagamentos S.A (Memso Código Do Banco Votorantim)"
  },
  {
-   "codigo": "41",
+   "codigo": "041",
    "nome": "Banrisul – Banco Do Estado Do Rio Grande Do Sul S.A."
  },
  {
@@ -76,7 +76,7 @@
    "nome": "Banco Safra S.A."
  },
  {
-   "codigo": "70",
+   "codigo": "070",
    "nome": "BRB – Banco De Brasília S.A."
  },
  {
@@ -100,7 +100,7 @@
    "nome": "Planner Corretora De Valores S.A."
  },
  {
-   "codigo": "96",
+   "codigo": "096",
    "nome": "Banco B3 S.A."
  },
  {
@@ -116,7 +116,7 @@
    "nome": "Banco BNP Paribas Brasil S.A."
  },
  {
-   "codigo": "91",
+   "codigo": "091",
    "nome": "Unicred Central Rs"
  },
  {
@@ -144,7 +144,7 @@
    "nome": "Super Pagamentos S/A (Superdital)"
  },
  {
-   "codigo": "84",
+   "codigo": "084",
    "nome": "Uniprime Norte Do Paraná"
  },
  {
@@ -152,11 +152,11 @@
    "nome": "Cm Capital Markets Cctvm Ltda"
  },
  {
-   "codigo": "66",
+   "codigo": "066",
    "nome": "Banco Morgan Stanley S.A."
  },
  {
-   "codigo": "15",
+   "codigo": "015",
    "nome": "UBS Brasil Cctvm S.A."
  },
  {
@@ -164,27 +164,27 @@
    "nome": "Treviso Cc S.A."
  },
  {
-   "codigo": "62",
+   "codigo": "062",
    "nome": "Hipercard Banco Múltiplo S.A."
  },
  {
-   "codigo": "74",
+   "codigo": "074",
    "nome": "Banco J. Safra S.A."
  },
  {
-   "codigo": "99",
+   "codigo": "099",
    "nome": "Uniprime Central Ccc Ltda"
  },
  {
-   "codigo": "25",
+   "codigo": "025",
    "nome": "Banco Alfa S.A."
  },
  {
-   "codigo": "75",
+   "codigo": "075",
    "nome": "Bco Abn Amro S.A."
  },
  {
-   "codigo": "40",
+   "codigo": "040",
    "nome": "Banco Cargill S.A."
  },
  {
@@ -192,7 +192,7 @@
    "nome": "Servicoop"
  },
  {
-   "codigo": "63",
+   "codigo": "063",
    "nome": "Banco Bradescard"
  },
  {
@@ -200,31 +200,31 @@
    "nome": "Nova Futura Ctvm Ltda"
  },
  {
-   "codigo": "64",
+   "codigo": "064",
    "nome": "Goldman Sachs Do Brasil Bm S.A."
  },
  {
-   "codigo": "97",
+   "codigo": "097",
    "nome": "Ccc Noroeste Brasileiro Ltda"
  },
  {
-   "codigo": "16",
+   "codigo": "016",
    "nome": "Ccm Desp Trâns Sc E Rs"
  },
  {
-   "codigo": "12",
+   "codigo": "012",
    "nome": "Banco Inbursa"
  },
  {
-   "codigo": "3",
+   "codigo": "003",
    "nome": "Banco Da Amazônia S.A."
  },
  {
-   "codigo": "60",
+   "codigo": "060",
    "nome": "Confidence Cc S.A."
  },
  {
-   "codigo": "37",
+   "codigo": "037",
    "nome": "Banco Do Estado Do Pará S.A."
  },
  {
@@ -236,7 +236,7 @@
    "nome": "Albatross Ccv S.A."
  },
  {
-   "codigo": "85",
+   "codigo": "085",
    "nome": "Cooperativa Central de Créditos – Ailos"
  },
  {
@@ -244,7 +244,7 @@
    "nome": "Central Cooperativa De Crédito no Estado do Espírito Santo"
  },
  {
-   "codigo": "36",
+   "codigo": "036",
    "nome": "Banco Bradesco BBI S.A."
  },
  {
@@ -252,7 +252,7 @@
    "nome": "Banco Bradesco Financiamentos S.A."
  },
  {
-   "codigo": "4",
+   "codigo": "004",
    "nome": "Banco Do Nordeste Do Brasil S.A."
  },
  {
@@ -268,11 +268,11 @@
    "nome": "Lecca Cfi S.A."
  },
  {
-   "codigo": "76",
+   "codigo": "076",
    "nome": "Banco KDB Brasil S.A."
  },
  {
-   "codigo": "82",
+   "codigo": "082",
    "nome": "Banco Topázio S.A."
  },
  {
@@ -280,7 +280,7 @@
    "nome": "Cooperativa de Crédito Rural de De Ouro"
  },
  {
-   "codigo": "93",
+   "codigo": "093",
    "nome": "PóloCred Scmepp Ltda"
  },
  {
@@ -296,7 +296,7 @@
    "nome": "Socred S.A."
  },
  {
-   "codigo": "14",
+   "codigo": "014",
    "nome": "Natixis Brasil S.A."
  },
  {
@@ -308,11 +308,11 @@
    "nome": "Codepe Cvc S.A."
  },
  {
-   "codigo": "79",
+   "codigo": "079",
    "nome": "Banco Original Do Agronegócio S.A."
  },
  {
-   "codigo": "81",
+   "codigo": "081",
    "nome": "Bbn Banco Brasileiro De Negocios S.A."
  },
  {
@@ -328,7 +328,7 @@
    "nome": "Banco Agibank S.A."
  },
  {
-   "codigo": "83",
+   "codigo": "083",
    "nome": "Banco Da China Brasil S.A."
  },
  {
@@ -336,15 +336,15 @@
    "nome": "Get Money Cc Ltda"
  },
  {
-   "codigo": "24",
+   "codigo": "024",
    "nome": "Banco Bandepe S.A."
  },
  {
-   "codigo": "95",
+   "codigo": "095",
    "nome": "Banco Confidence De Câmbio S.A."
  },
  {
-   "codigo": "94",
+   "codigo": "094",
    "nome": "Banco Finaxis"
  },
  {
@@ -356,11 +356,11 @@
    "nome": "Multimoney Cc Ltda"
  },
  {
-   "codigo": "92",
+   "codigo": "092",
    "nome": "BRK S.A."
  },
  {
-   "codigo": "47",
+   "codigo": "047",
    "nome": "Banco do Estado de Sergipe S.A."
  },
  {
@@ -484,7 +484,7 @@
    "nome": "Ib Cctvm Ltda"
  },
  {
-   "codigo": "21",
+   "codigo": "021",
    "nome": "Banco Banestes S.A."
  },
  {
@@ -560,7 +560,7 @@
    "nome": "Banco Fator S.A."
  },
  {
-   "codigo": "7",
+   "codigo": "007",
    "nome": "BNDES (Banco Nacional Do Desenvolvimento Social)"
  },
  {
@@ -576,7 +576,7 @@
    "nome": "Banco Alvorada S.A."
  },
  {
-   "codigo": "29",
+   "codigo": "029",
    "nome": "Banco Itaú Consignado S.A."
  },
  {
@@ -584,7 +584,7 @@
    "nome": "Banco Máxima S.A."
  },
  {
-   "codigo": "78",
+   "codigo": "078",
    "nome": "Haitong Bi Do Brasil S.A."
  },
  {
@@ -592,7 +592,7 @@
    "nome": "Banco Oliveira Trust Dtvm S.A."
  },
  {
-   "codigo": "17",
+   "codigo": "017",
    "nome": "Bny Mellon Banco S.A."
  },
  {
@@ -612,7 +612,7 @@
    "nome": "Jpmorgan Chase Bank"
  },
  {
-   "codigo": "65",
+   "codigo": "065",
    "nome": "Banco Andbank S.A."
  },
  {
@@ -648,7 +648,7 @@
    "nome": "Intesa Sanpaolo Brasil S.A."
  },
  {
-   "codigo": "18",
+   "codigo": "018",
    "nome": "Banco Tricury S.A."
  },
  {
@@ -696,7 +696,7 @@
    "nome": "Banco Indusval S.A."
  },
  {
-   "codigo": "69",
+   "codigo": "069",
    "nome": "Banco Crefisa S.A."
  },
  {
@@ -732,7 +732,7 @@
    "nome": "Tullett Prebon Brasil Cvc Ltda"
  },
  {
-   "codigo": "11",
+   "codigo": "011",
    "nome": "C.Suisse Hedging-Griffo Cv S.A (Credit Suisse)"
  },
  {
@@ -744,7 +744,7 @@
    "nome": "Bofa Merrill Lynch Bm S.A."
  },
  {
-   "codigo": "89",
+   "codigo": "089",
    "nome": "Ccr Reg Mogiana"
  },
  {
@@ -804,7 +804,7 @@
    "nome": "Frente Cc Ltda"
  },
  {
-   "codigo": "80",
+   "codigo": "080",
    "nome": "B&T Cc Ltda"
  },
  {
@@ -820,7 +820,7 @@
    "nome": "Banco Sistema S.A."
  },
  {
-   "codigo": "98",
+   "codigo": "098",
    "nome": "Credialiança Ccr"
  },
  {
@@ -832,7 +832,7 @@
    "nome": "Banco Ourinvest S.A."
  },
  {
-   "codigo": "10",
+   "codigo": "010",
    "nome": "CREDICOAMO CRÉDITO RURAL COOPERATIVA"
  },
  {
@@ -888,7 +888,7 @@
    "nome": "Cooperativa De Crédito Rural De Pequenos Agricultores E Da Reforma Agrária Do Ce"
  },
  {
-   "codigo": "91",
+   "codigo": "091",
    "nome": "Central De Cooperativas De Economia E Crédito Mútuo Do Estado Do Rio Grande Do S"
  },
  {
@@ -904,7 +904,7 @@
    "nome": "TRINUS Capital Distribuidora De Títulos E Valores Mobiliários S.A."
  },
  {
-   "codigo": "84",
+   "codigo": "084",
    "nome": "UNIPRIME NORTE DO PARANÁ – COOPERATIVA DE CRÉDITO LTDA"
  },
  {
@@ -936,11 +936,11 @@
    "nome": "FIDÚCIA SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE L"
  },
  {
-   "codigo": "97",
+   "codigo": "097",
    "nome": "Credisis – Central de Cooperativas de Crédito Ltda."
  },
  {
-   "codigo": "16",
+   "codigo": "016",
    "nome": "COOPERATIVA DE CRÉDITO MÚTUO DOS DESPACHANTES DE TRÂNSITO DE SANTA CATARINA E RI"
  },
  {
@@ -968,11 +968,11 @@
    "nome": "GERENCIANET S.A."
  },
  {
-   "codigo": "14",
+   "codigo": "014",
    "nome": "STATE STREET BRASIL S.A. – BANCO COMERCIAL"
  },
  {
-   "codigo": "81",
+   "codigo": "081",
    "nome": "Banco Seguro S.A."
  },
  {
@@ -980,7 +980,7 @@
    "nome": "GLOBAL FINANÇAS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO"
  },
  {
-   "codigo": "88",
+   "codigo": "088",
    "nome": "BANCO RANDON S.A."
  },
  {
@@ -992,7 +992,7 @@
    "nome": "MONEY PLUS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORT"
  },
  {
-   "codigo": "95",
+   "codigo": "095",
    "nome": "Travelex Banco de Câmbio S.A."
  },
  {
@@ -1140,7 +1140,7 @@
    "nome": "Bank of America Merrill Lynch Banco Múltiplo S.A."
  },
  {
-   "codigo": "89",
+   "codigo": "089",
    "nome": "CREDISAN COOPERATIVA DE CRÉDITO"
  },
  {
