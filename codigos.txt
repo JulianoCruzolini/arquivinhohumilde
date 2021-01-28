@@ -1,0 +1,1170 @@
+[
+ {
+   "codigo": "1",
+   "nome": "Banco Do Brasil S.A (BB)"
+ },
+ {
+   "codigo": "237",
+   "nome": "Bradesco S.A."
+ },
+ {
+   "codigo": "335",
+   "nome": "Banco Digio S.A."
+ },
+ {
+   "codigo": "260",
+   "nome": "Nu Pagamentos S.A (Nubank)"
+ },
+ {
+   "codigo": "290",
+   "nome": "PagSeguro Internet S.A."
+ },
+ {
+   "codigo": "323",
+   "nome": "Mercado Pago – Conta Do Mercado Livre"
+ },
+ {
+   "codigo": "237",
+   "nome": "Next Bank (Mesmo Código Do Bradesco)"
+ },
+ {
+   "codigo": "637",
+   "nome": "Banco Sofisa S.A (Sofisa Direto)"
+ },
+ {
+   "codigo": "77",
+   "nome": "Banco Inter S.A."
+ },
+ {
+   "codigo": "341",
+   "nome": "Itaú Unibanco S.A."
+ },
+ {
+   "codigo": "104",
+   "nome": "Caixa Econômica Federal (CEF)"
+ },
+ {
+   "codigo": "33",
+   "nome": "Banco Santander Brasil S.A."
+ },
+ {
+   "codigo": "212",
+   "nome": "Banco Original S.A."
+ },
+ {
+   "codigo": "756",
+   "nome": "Bancoob – Banco Cooperativo Do Brasil S.A."
+ },
+ {
+   "codigo": "655",
+   "nome": "Banco Votorantim S.A."
+ },
+ {
+   "codigo": "655",
+   "nome": "Neon Pagamentos S.A (Memso Código Do Banco Votorantim)"
+ },
+ {
+   "codigo": "41",
+   "nome": "Banrisul – Banco Do Estado Do Rio Grande Do Sul S.A."
+ },
+ {
+   "codigo": "389",
+   "nome": "Banco Mercantil Do Brasil S.A."
+ },
+ {
+   "codigo": "422",
+   "nome": "Banco Safra S.A."
+ },
+ {
+   "codigo": "70",
+   "nome": "BRB – Banco De Brasília S.A."
+ },
+ {
+   "codigo": "136",
+   "nome": "Unicred Cooperativa LTDA"
+ },
+ {
+   "codigo": "741",
+   "nome": "Banco Ribeirão Preto S.A."
+ },
+ {
+   "codigo": "739",
+   "nome": "Banco Cetelem S.A."
+ },
+ {
+   "codigo": "743",
+   "nome": "Banco Semear S.A."
+ },
+ {
+   "codigo": "100",
+   "nome": "Planner Corretora De Valores S.A."
+ },
+ {
+   "codigo": "96",
+   "nome": "Banco B3 S.A."
+ },
+ {
+   "codigo": "747",
+   "nome": "Banco Rabobank Internacional Do Brasil S.A."
+ },
+ {
+   "codigo": "748",
+   "nome": "Banco Cooperativa Sicredi S.A."
+ },
+ {
+   "codigo": "752",
+   "nome": "Banco BNP Paribas Brasil S.A."
+ },
+ {
+   "codigo": "91",
+   "nome": "Unicred Central Rs"
+ },
+ {
+   "codigo": "399",
+   "nome": "Kirton Bank S.A. – Banco Múltiplo"
+ },
+ {
+   "codigo": "108",
+   "nome": "Portocred S.A."
+ },
+ {
+   "codigo": "757",
+   "nome": "Banco Keb Hana Do Brasil S.A."
+ },
+ {
+   "codigo": "102",
+   "nome": "XP Investimentos S.A."
+ },
+ {
+   "codigo": "348",
+   "nome": "Banco XP S/A"
+ },
+ {
+   "codigo": "340",
+   "nome": "Super Pagamentos S/A (Superdital)"
+ },
+ {
+   "codigo": "84",
+   "nome": "Uniprime Norte Do Paraná"
+ },
+ {
+   "codigo": "180",
+   "nome": "Cm Capital Markets Cctvm Ltda"
+ },
+ {
+   "codigo": "66",
+   "nome": "Banco Morgan Stanley S.A."
+ },
+ {
+   "codigo": "15",
+   "nome": "UBS Brasil Cctvm S.A."
+ },
+ {
+   "codigo": "143",
+   "nome": "Treviso Cc S.A."
+ },
+ {
+   "codigo": "62",
+   "nome": "Hipercard Banco Múltiplo S.A."
+ },
+ {
+   "codigo": "74",
+   "nome": "Banco J. Safra S.A."
+ },
+ {
+   "codigo": "99",
+   "nome": "Uniprime Central Ccc Ltda"
+ },
+ {
+   "codigo": "25",
+   "nome": "Banco Alfa S.A."
+ },
+ {
+   "codigo": "75",
+   "nome": "Bco Abn Amro S.A."
+ },
+ {
+   "codigo": "40",
+   "nome": "Banco Cargill S.A."
+ },
+ {
+   "codigo": "190",
+   "nome": "Servicoop"
+ },
+ {
+   "codigo": "63",
+   "nome": "Banco Bradescard"
+ },
+ {
+   "codigo": "191",
+   "nome": "Nova Futura Ctvm Ltda"
+ },
+ {
+   "codigo": "64",
+   "nome": "Goldman Sachs Do Brasil Bm S.A."
+ },
+ {
+   "codigo": "97",
+   "nome": "Ccc Noroeste Brasileiro Ltda"
+ },
+ {
+   "codigo": "16",
+   "nome": "Ccm Desp Trâns Sc E Rs"
+ },
+ {
+   "codigo": "12",
+   "nome": "Banco Inbursa"
+ },
+ {
+   "codigo": "3",
+   "nome": "Banco Da Amazônia S.A."
+ },
+ {
+   "codigo": "60",
+   "nome": "Confidence Cc S.A."
+ },
+ {
+   "codigo": "37",
+   "nome": "Banco Do Estado Do Pará S.A."
+ },
+ {
+   "codigo": "159",
+   "nome": "Casa do Crédito S.A."
+ },
+ {
+   "codigo": "172",
+   "nome": "Albatross Ccv S.A."
+ },
+ {
+   "codigo": "85",
+   "nome": "Cooperativa Central de Créditos – Ailos"
+ },
+ {
+   "codigo": "114",
+   "nome": "Central Cooperativa De Crédito no Estado do Espírito Santo"
+ },
+ {
+   "codigo": "36",
+   "nome": "Banco Bradesco BBI S.A."
+ },
+ {
+   "codigo": "394",
+   "nome": "Banco Bradesco Financiamentos S.A."
+ },
+ {
+   "codigo": "4",
+   "nome": "Banco Do Nordeste Do Brasil S.A."
+ },
+ {
+   "codigo": "320",
+   "nome": "China Construction Bank – Ccb Brasil S.A."
+ },
+ {
+   "codigo": "189",
+   "nome": "Hs Financeira"
+ },
+ {
+   "codigo": "105",
+   "nome": "Lecca Cfi S.A."
+ },
+ {
+   "codigo": "76",
+   "nome": "Banco KDB Brasil S.A."
+ },
+ {
+   "codigo": "82",
+   "nome": "Banco Topázio S.A."
+ },
+ {
+   "codigo": "286",
+   "nome": "Cooperativa de Crédito Rural de De Ouro"
+ },
+ {
+   "codigo": "93",
+   "nome": "PóloCred Scmepp Ltda"
+ },
+ {
+   "codigo": "273",
+   "nome": "Ccr De São Miguel Do Oeste"
+ },
+ {
+   "codigo": "157",
+   "nome": "Icap Do Brasil Ctvm Ltda"
+ },
+ {
+   "codigo": "183",
+   "nome": "Socred S.A."
+ },
+ {
+   "codigo": "14",
+   "nome": "Natixis Brasil S.A."
+ },
+ {
+   "codigo": "130",
+   "nome": "Caruana Scfi"
+ },
+ {
+   "codigo": "127",
+   "nome": "Codepe Cvc S.A."
+ },
+ {
+   "codigo": "79",
+   "nome": "Banco Original Do Agronegócio S.A."
+ },
+ {
+   "codigo": "81",
+   "nome": "Bbn Banco Brasileiro De Negocios S.A."
+ },
+ {
+   "codigo": "118",
+   "nome": "Standard Chartered Bi S.A."
+ },
+ {
+   "codigo": "133",
+   "nome": "Cresol Confederação"
+ },
+ {
+   "codigo": "121",
+   "nome": "Banco Agibank S.A."
+ },
+ {
+   "codigo": "83",
+   "nome": "Banco Da China Brasil S.A."
+ },
+ {
+   "codigo": "138",
+   "nome": "Get Money Cc Ltda"
+ },
+ {
+   "codigo": "24",
+   "nome": "Banco Bandepe S.A."
+ },
+ {
+   "codigo": "95",
+   "nome": "Banco Confidence De Câmbio S.A."
+ },
+ {
+   "codigo": "94",
+   "nome": "Banco Finaxis"
+ },
+ {
+   "codigo": "276",
+   "nome": "Senff S.A."
+ },
+ {
+   "codigo": "137",
+   "nome": "Multimoney Cc Ltda"
+ },
+ {
+   "codigo": "92",
+   "nome": "BRK S.A."
+ },
+ {
+   "codigo": "47",
+   "nome": "Banco do Estado de Sergipe S.A."
+ },
+ {
+   "codigo": "144",
+   "nome": "Bexs Banco De Cambio S.A."
+ },
+ {
+   "codigo": "126",
+   "nome": "BR Partners Banco de Investimento S.A."
+ },
+ {
+   "codigo": "301",
+   "nome": "BPP Instituição De Pagamentos S.A."
+ },
+ {
+   "codigo": "173",
+   "nome": "BRL Trust Dtvm Sa"
+ },
+ {
+   "codigo": "119",
+   "nome": "Banco Western Union do Brasil S.A."
+ },
+ {
+   "codigo": "254",
+   "nome": "Paraná Banco S.A."
+ },
+ {
+   "codigo": "268",
+   "nome": "Barigui Companhia Hipotecária"
+ },
+ {
+   "codigo": "107",
+   "nome": "Banco Bocom BBM S.A."
+ },
+ {
+   "codigo": "412",
+   "nome": "Banco Capital S.A."
+ },
+ {
+   "codigo": "124",
+   "nome": "Banco Woori Bank Do Brasil S.A."
+ },
+ {
+   "codigo": "149",
+   "nome": "Facta S.A. Cfi"
+ },
+ {
+   "codigo": "197",
+   "nome": "Stone Pagamentos S.A."
+ },
+ {
+   "codigo": "142",
+   "nome": "Broker Brasil Cc Ltda"
+ },
+ {
+   "codigo": "389",
+   "nome": "Banco Mercantil Do Brasil S.A."
+ },
+ {
+   "codigo": "184",
+   "nome": "Banco Itaú BBA S.A."
+ },
+ {
+   "codigo": "634",
+   "nome": "Banco Triangulo S.A (Banco Triângulo)"
+ },
+ {
+   "codigo": "545",
+   "nome": "Senso Ccvm S.A."
+ },
+ {
+   "codigo": "132",
+   "nome": "ICBC do Brasil Bm S.A."
+ },
+ {
+   "codigo": "298",
+   "nome": "Vip’s Cc Ltda"
+ },
+ {
+   "codigo": "129",
+   "nome": "UBS Brasil Bi S.A."
+ },
+ {
+   "codigo": "128",
+   "nome": "Ms Bank S.A Banco De Câmbio"
+ },
+ {
+   "codigo": "194",
+   "nome": "Parmetal Dtvm Ltda"
+ },
+ {
+   "codigo": "310",
+   "nome": "VORTX Dtvm Ltda"
+ },
+ {
+   "codigo": "163",
+   "nome": "Commerzbank Brasil S.A Banco Múltiplo"
+ },
+ {
+   "codigo": "280",
+   "nome": "Avista S.A."
+ },
+ {
+   "codigo": "146",
+   "nome": "Guitta Cc Ltda"
+ },
+ {
+   "codigo": "279",
+   "nome": "Ccr De Primavera Do Leste"
+ },
+ {
+   "codigo": "182",
+   "nome": "Dacasa Financeira S/A"
+ },
+ {
+   "codigo": "278",
+   "nome": "Genial Investimentos Cvm S.A."
+ },
+ {
+   "codigo": "271",
+   "nome": "Ib Cctvm Ltda"
+ },
+ {
+   "codigo": "21",
+   "nome": "Banco Banestes S.A."
+ },
+ {
+   "codigo": "246",
+   "nome": "Banco Abc Brasil S.A."
+ },
+ {
+   "codigo": "751",
+   "nome": "Scotiabank Brasil"
+ },
+ {
+   "codigo": "208",
+   "nome": "Banco BTG Pactual S.A."
+ },
+ {
+   "codigo": "746",
+   "nome": "Banco Modal S.A."
+ },
+ {
+   "codigo": "241",
+   "nome": "Banco Classico S.A."
+ },
+ {
+   "codigo": "612",
+   "nome": "Banco Guanabara S.A."
+ },
+ {
+   "codigo": "604",
+   "nome": "Banco Industrial Do Brasil S.A."
+ },
+ {
+   "codigo": "505",
+   "nome": "Banco Credit Suisse (Brl) S.A."
+ },
+ {
+   "codigo": "196",
+   "nome": "Banco Fair Cc S.A."
+ },
+ {
+   "codigo": "300",
+   "nome": "Banco La Nacion Argentina"
+ },
+ {
+   "codigo": "477",
+   "nome": "Citibank N.A."
+ },
+ {
+   "codigo": "266",
+   "nome": "Banco Cedula S.A."
+ },
+ {
+   "codigo": "122",
+   "nome": "Banco Bradesco BERJ S.A."
+ },
+ {
+   "codigo": "376",
+   "nome": "Banco J.P. Morgan S.A."
+ },
+ {
+   "codigo": "473",
+   "nome": "Banco Caixa Geral Brasil S.A."
+ },
+ {
+   "codigo": "745",
+   "nome": "Banco Citibank S.A."
+ },
+ {
+   "codigo": "120",
+   "nome": "Banco Rodobens S.A."
+ },
+ {
+   "codigo": "265",
+   "nome": "Banco Fator S.A."
+ },
+ {
+   "codigo": "7",
+   "nome": "BNDES (Banco Nacional Do Desenvolvimento Social)"
+ },
+ {
+   "codigo": "188",
+   "nome": "Ativa S.A Investimentos"
+ },
+ {
+   "codigo": "134",
+   "nome": "BGC Liquidez Dtvm Ltda"
+ },
+ {
+   "codigo": "641",
+   "nome": "Banco Alvorada S.A."
+ },
+ {
+   "codigo": "29",
+   "nome": "Banco Itaú Consignado S.A."
+ },
+ {
+   "codigo": "243",
+   "nome": "Banco Máxima S.A."
+ },
+ {
+   "codigo": "78",
+   "nome": "Haitong Bi Do Brasil S.A."
+ },
+ {
+   "codigo": "111",
+   "nome": "Banco Oliveira Trust Dtvm S.A."
+ },
+ {
+   "codigo": "17",
+   "nome": "Bny Mellon Banco S.A."
+ },
+ {
+   "codigo": "174",
+   "nome": "Pernambucanas Financ S.A."
+ },
+ {
+   "codigo": "495",
+   "nome": "La Provincia Buenos Aires Banco"
+ },
+ {
+   "codigo": "125",
+   "nome": "Brasil Plural S.A Banco"
+ },
+ {
+   "codigo": "488",
+   "nome": "Jpmorgan Chase Bank"
+ },
+ {
+   "codigo": "65",
+   "nome": "Banco Andbank S.A."
+ },
+ {
+   "codigo": "492",
+   "nome": "Ing Bank N.V."
+ },
+ {
+   "codigo": "250",
+   "nome": "Banco Bcv"
+ },
+ {
+   "codigo": "145",
+   "nome": "Levycam Ccv Ltda"
+ },
+ {
+   "codigo": "494",
+   "nome": "Banco Rep Oriental Uruguay"
+ },
+ {
+   "codigo": "253",
+   "nome": "Bexs Cc S.A."
+ },
+ {
+   "codigo": "269",
+   "nome": "Hsbc Banco De Investimento"
+ },
+ {
+   "codigo": "213",
+   "nome": "Bco Arbi S.A."
+ },
+ {
+   "codigo": "139",
+   "nome": "Intesa Sanpaolo Brasil S.A."
+ },
+ {
+   "codigo": "18",
+   "nome": "Banco Tricury S.A."
+ },
+ {
+   "codigo": "630",
+   "nome": "Banco Intercap S.A."
+ },
+ {
+   "codigo": "224",
+   "nome": "Banco Fibra S.A."
+ },
+ {
+   "codigo": "600",
+   "nome": "Banco Luso Brasileiro S.A."
+ },
+ {
+   "codigo": "623",
+   "nome": "Banco Pan S.A."
+ },
+ {
+   "codigo": "204",
+   "nome": "Banco Bradesco Cartoes S.A."
+ },
+ {
+   "codigo": "479",
+   "nome": "Banco ItauBank S.A."
+ },
+ {
+   "codigo": "456",
+   "nome": "Banco MUFG Brasil S.A."
+ },
+ {
+   "codigo": "464",
+   "nome": "Banco Sumitomo Mitsui Brasil S.A."
+ },
+ {
+   "codigo": "613",
+   "nome": "Omni Banco S.A."
+ },
+ {
+   "codigo": "652",
+   "nome": "Itaú Unibanco Holding Bm S.A."
+ },
+ {
+   "codigo": "653",
+   "nome": "Banco Indusval S.A."
+ },
+ {
+   "codigo": "69",
+   "nome": "Banco Crefisa S.A."
+ },
+ {
+   "codigo": "370",
+   "nome": "Banco Mizuho S.A."
+ },
+ {
+   "codigo": "249",
+   "nome": "Banco Investcred Unibanco S.A."
+ },
+ {
+   "codigo": "318",
+   "nome": "Banco BMG S.A."
+ },
+ {
+   "codigo": "626",
+   "nome": "Banco Ficsa S.A."
+ },
+ {
+   "codigo": "270",
+   "nome": "Sagitur Cc Ltda"
+ },
+ {
+   "codigo": "366",
+   "nome": "Banco Societe Generale Brasil"
+ },
+ {
+   "codigo": "113",
+   "nome": "Magliano S.A."
+ },
+ {
+   "codigo": "131",
+   "nome": "Tullett Prebon Brasil Cvc Ltda"
+ },
+ {
+   "codigo": "11",
+   "nome": "C.Suisse Hedging-Griffo Cv S.A (Credit Suisse)"
+ },
+ {
+   "codigo": "611",
+   "nome": "Banco Paulista"
+ },
+ {
+   "codigo": "755",
+   "nome": "Bofa Merrill Lynch Bm S.A."
+ },
+ {
+   "codigo": "89",
+   "nome": "Ccr Reg Mogiana"
+ },
+ {
+   "codigo": "643",
+   "nome": "Banco Pine S.A."
+ },
+ {
+   "codigo": "140",
+   "nome": "Easynvest – Título Cv S.A."
+ },
+ {
+   "codigo": "707",
+   "nome": "Banco Daycoval S.A."
+ },
+ {
+   "codigo": "288",
+   "nome": "Carol Dtvm Ltda"
+ },
+ {
+   "codigo": "101",
+   "nome": "Renascença Dtvm Ltda"
+ },
+ {
+   "codigo": "487",
+   "nome": "Deutsche Bank S.A (Banco Alemão)"
+ },
+ {
+   "codigo": "233",
+   "nome": "Banco Cifra S.A."
+ },
+ {
+   "codigo": "177",
+   "nome": "Guide Investimentos S.A. Corretora de Valores"
+ },
+ {
+   "codigo": "633",
+   "nome": "Banco Rendimento S.A."
+ },
+ {
+   "codigo": "218",
+   "nome": "Banco Bs2 S.A."
+ },
+ {
+   "codigo": "292",
+   "nome": "BS2 Distribuidora De Títulos E Investimentos"
+ },
+ {
+   "codigo": "169",
+   "nome": "Banco Olé Bonsucesso Consignado S.A."
+ },
+ {
+   "codigo": "293",
+   "nome": "Lastro Rdv Dtvm Ltda"
+ },
+ {
+   "codigo": "285",
+   "nome": "Frente Cc Ltda"
+ },
+ {
+   "codigo": "80",
+   "nome": "B&T Cc Ltda"
+ },
+ {
+   "codigo": "753",
+   "nome": "Novo Banco Continental S.A Bm"
+ },
+ {
+   "codigo": "222",
+   "nome": "Banco Crédit Agricole Br S.A."
+ },
+ {
+   "codigo": "754",
+   "nome": "Banco Sistema S.A."
+ },
+ {
+   "codigo": "98",
+   "nome": "Credialiança Ccr"
+ },
+ {
+   "codigo": "610",
+   "nome": "Banco VR S.A."
+ },
+ {
+   "codigo": "712",
+   "nome": "Banco Ourinvest S.A."
+ },
+ {
+   "codigo": "10",
+   "nome": "CREDICOAMO CRÉDITO RURAL COOPERATIVA"
+ },
+ {
+   "codigo": "283",
+   "nome": "RB Capital Investimentos Dtvm Ltda"
+ },
+ {
+   "codigo": "217",
+   "nome": "Banco John Deere S.A."
+ },
+ {
+   "codigo": "117",
+   "nome": "Advanced Cc Ltda"
+ },
+ {
+   "codigo": "336",
+   "nome": "Banco C6 S.A – C6 Bank"
+ },
+ {
+   "codigo": "654",
+   "nome": "Banco A.J. Renner S.A."
+ },
+ {
+   "codigo": "n/a",
+   "nome": "Banco Central do Brasil – Selic"
+ },
+ {
+   "codigo": "n/a",
+   "nome": "Banco Central do Brasil"
+ },
+ {
+   "codigo": "272",
+   "nome": "AGK Corretora de Câmbio S.A."
+ },
+ {
+   "codigo": "n/a",
+   "nome": "Secretaria do Tesouro Nacional – STN"
+ },
+ {
+   "codigo": "330",
+   "nome": "Banco Bari de Investimentos e Financiamentos S.A."
+ },
+ {
+   "codigo": "362",
+   "nome": "CIELO S.A."
+ },
+ {
+   "codigo": "322",
+   "nome": "Cooperativa de Crédito Rural de Abelardo Luz – Sulcredi/Crediluz"
+ },
+ {
+   "codigo": "350",
+   "nome": "Cooperativa De Crédito Rural De Pequenos Agricultores E Da Reforma Agrária Do Ce"
+ },
+ {
+   "codigo": "91",
+   "nome": "Central De Cooperativas De Economia E Crédito Mútuo Do Estado Do Rio Grande Do S"
+ },
+ {
+   "codigo": "379",
+   "nome": "COOPERFORTE – Cooperativa De Economia E Crédito Mútuo Dos Funcionários De Instit"
+ },
+ {
+   "codigo": "378",
+   "nome": "BBC LEASING S.A. – Arrendamento Mercantil"
+ },
+ {
+   "codigo": "360",
+   "nome": "TRINUS Capital Distribuidora De Títulos E Valores Mobiliários S.A."
+ },
+ {
+   "codigo": "84",
+   "nome": "UNIPRIME NORTE DO PARANÁ – COOPERATIVA DE CRÉDITO LTDA"
+ },
+ {
+   "codigo": "n/a",
+   "nome": "Câmara Interbancária de Pagamentos – CIP – LDL"
+ },
+ {
+   "codigo": "387",
+   "nome": "Banco Toyota do Brasil S.A."
+ },
+ {
+   "codigo": "326",
+   "nome": "PARATI – CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A."
+ },
+ {
+   "codigo": "315",
+   "nome": "PI Distribuidora de Títulos e Valores Mobiliários S.A."
+ },
+ {
+   "codigo": "307",
+   "nome": "Terra Investimentos Distribuidora de Títulos e Valores Mobiliários Ltda."
+ },
+ {
+   "codigo": "296",
+   "nome": "VISION S.A. CORRETORA DE CAMBIO"
+ },
+ {
+   "codigo": "382",
+   "nome": "FIDÚCIA SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE L"
+ },
+ {
+   "codigo": "97",
+   "nome": "Credisis – Central de Cooperativas de Crédito Ltda."
+ },
+ {
+   "codigo": "16",
+   "nome": "COOPERATIVA DE CRÉDITO MÚTUO DOS DESPACHANTES DE TRÂNSITO DE SANTA CATARINA E RI"
+ },
+ {
+   "codigo": "299",
+   "nome": "SOROCRED   CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A."
+ },
+ {
+   "codigo": "359",
+   "nome": "ZEMA CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A"
+ },
+ {
+   "codigo": "391",
+   "nome": "COOPERATIVA DE CRÉDITO RURAL DE IBIAM – SULCREDI/IBIAM"
+ },
+ {
+   "codigo": "368",
+   "nome": "Banco CSF S.A."
+ },
+ {
+   "codigo": "259",
+   "nome": "MONEYCORP BANCO DE CÂMBIO S.A."
+ },
+ {
+   "codigo": "364",
+   "nome": "GERENCIANET S.A."
+ },
+ {
+   "codigo": "14",
+   "nome": "STATE STREET BRASIL S.A. – BANCO COMERCIAL"
+ },
+ {
+   "codigo": "81",
+   "nome": "Banco Seguro S.A."
+ },
+ {
+   "codigo": "384",
+   "nome": "GLOBAL FINANÇAS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO"
+ },
+ {
+   "codigo": "88",
+   "nome": "BANCO RANDON S.A."
+ },
+ {
+   "codigo": "319",
+   "nome": "OM DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA"
+ },
+ {
+   "codigo": "274",
+   "nome": "MONEY PLUS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORT"
+ },
+ {
+   "codigo": "95",
+   "nome": "Travelex Banco de Câmbio S.A."
+ },
+ {
+   "codigo": "332",
+   "nome": "Acesso Soluções de Pagamento S.A."
+ },
+ {
+   "codigo": "325",
+   "nome": "Órama Distribuidora de Títulos e Valores Mobiliários S.A."
+ },
+ {
+   "codigo": "331",
+   "nome": "Fram Capital Distribuidora de Títulos e Valores Mobiliários S.A."
+ },
+ {
+   "codigo": "396",
+   "nome": "HUB PAGAMENTOS S.A."
+ },
+ {
+   "codigo": "309",
+   "nome": "CAMBIONET CORRETORA DE CÂMBIO LTDA."
+ },
+ {
+   "codigo": "313",
+   "nome": "AMAZÔNIA CORRETORA DE CÂMBIO LTDA."
+ },
+ {
+   "codigo": "377",
+   "nome": "MS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA"
+ },
+ {
+   "codigo": "321",
+   "nome": "CREFAZ SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORTE LT"
+ },
+ {
+   "codigo": "383",
+   "nome": "BOLETOBANCÁRIO.COM TECNOLOGIA DE PAGAMENTOS LTDA."
+ },
+ {
+   "codigo": "324",
+   "nome": "CARTOS SOCIEDADE DE CRÉDITO DIRETO S.A."
+ },
+ {
+   "codigo": "380",
+   "nome": "PICPAY SERVICOS S.A."
+ },
+ {
+   "codigo": "343",
+   "nome": "FFA SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA."
+ },
+ {
+   "codigo": "349",
+   "nome": "AL5 S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO"
+ },
+ {
+   "codigo": "374",
+   "nome": "REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A."
+ },
+ {
+   "codigo": "n/a",
+   "nome": "B3 SA – Brasil, Bolsa, Balcão – Segmento Cetip UTVM"
+ },
+ {
+   "codigo": "n/a",
+   "nome": "Câmara Interbancária de Pagamentos – CIP C3"
+ },
+ {
+   "codigo": "352",
+   "nome": "TORO CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA"
+ },
+ {
+   "codigo": "329",
+   "nome": "QI Sociedade de Crédito Direto S.A."
+ },
+ {
+   "codigo": "342",
+   "nome": "Creditas Sociedade de Crédito Direto S.A."
+ },
+ {
+   "codigo": "397",
+   "nome": "LISTO SOCIEDADE DE CRÉDITO DIRETO S.A."
+ },
+ {
+   "codigo": "355",
+   "nome": "ÓTIMO SOCIEDADE DE CRÉDITO DIRETO S.A."
+ },
+ {
+   "codigo": "367",
+   "nome": "VITREO DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A."
+ },
+ {
+   "codigo": "373",
+   "nome": "UP.P SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A."
+ },
+ {
+   "codigo": "408",
+   "nome": "BÔNUSCRED SOCIEDADE DE CRÉDITO DIRETO S.A."
+ },
+ {
+   "codigo": "404",
+   "nome": "SUMUP SOCIEDADE DE CRÉDITO DIRETO S.A."
+ },
+ {
+   "codigo": "403",
+   "nome": "CORA SOCIEDADE DE CRÉDITO DIRETO S.A."
+ },
+ {
+   "codigo": "306",
+   "nome": "PORTOPAR DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA."
+ },
+ {
+   "codigo": "174",
+   "nome": "PEFISA S.A. – CRÉDITO, FINANCIAMENTO E INVESTIMENTO"
+ },
+ {
+   "codigo": "354",
+   "nome": "NECTON INVESTIMENTOS S.A. CORRETORA DE VALORES MOBILIÁRIOS E COMMODITIES"
+ },
+ {
+   "codigo": "n/a",
+   "nome": "BMF Bovespa S.A. – Bolsa de Valores, Mercadorias e Futuros – Camara BMFBOVESPA"
+ },
+ {
+   "codigo": "630",
+   "nome": "Banco Smartbank S.A."
+ },
+ {
+   "codigo": "393",
+   "nome": "Banco Volkswagen S.A."
+ },
+ {
+   "codigo": "390",
+   "nome": "BANCO GM S.A."
+ },
+ {
+   "codigo": "381",
+   "nome": "BANCO MERCEDES-BENZ DO BRASIL S.A."
+ },
+ {
+   "codigo": "626",
+   "nome": "BANCO C6 CONSIGNADO S.A."
+ },
+ {
+   "codigo": "755",
+   "nome": "Bank of America Merrill Lynch Banco Múltiplo S.A."
+ },
+ {
+   "codigo": "89",
+   "nome": "CREDISAN COOPERATIVA DE CRÉDITO"
+ },
+ {
+   "codigo": "363",
+   "nome": "SOCOPA SOCIEDADE CORRETORA PAULISTA S.A."
+ },
+ {
+   "codigo": "365",
+   "nome": "SOLIDUS S.A. CORRETORA DE CAMBIO E VALORES MOBILIARIOS"
+ },
+ {
+   "codigo": "281",
+   "nome": "Cooperativa de Crédito Rural Coopavel"
+ },
+ {
+   "codigo": "654",
+   "nome": "BANCO DIGIMAIS S.A."
+ },
+ {
+   "codigo": "371",
+   "nome": "WARREN CORRETORA DE VALORES MOBILIÁRIOS E CÂMBIO LTDA."
+ },
+ {
+   "codigo": "289",
+   "nome": "DECYSEO CORRETORA DE CAMBIO LTDA."
+ }
+]
